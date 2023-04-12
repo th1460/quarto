@@ -1,0 +1,22 @@
+---
+title: "Quarto"
+subtitle: "Produção de documentos <br> automatizados e dinâmicos"
+author: "Thiago Pires"
+format: 
+  revealjs:
+    theme: resources/scss/theme.scss
+    footer: "[github.com/th1460/quarto](https://github.com/th1460/quarto/)"
+    title-slide-attributes:
+      data-background-image: resources/images/cover.gif
+      data-background-size: cover
+    width: 1600
+    height: 900
+---
+
+## [Quarto](https://quarto.org/)
+
+:::info-box
+Quarto é um sistema de publicação científica e técnica de código aberto construído em [Pandoc](https://pandoc.org/). Com ele é possível renderizar o resultado de um script com texto escrito em `markdown` em um `html`, `word` ou `pdf`.
+:::
+
+### Exemplo
